@@ -1,3 +1,15 @@
-.container, .jumbotron {
+.container {
     text-align: center;
 }
+
+.jumbotron {
+    text-align: center;
+    margin: 80px 30px;
+}
+
+#jumbotron-main {
+    background-image: url("images/background.jpeg");
+    background-size: cover;
+    color: white;
+}
+
