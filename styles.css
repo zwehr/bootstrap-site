@@ -22,3 +22,7 @@ h1 {
 h2 {
     margin-bottom: 50px;
 }
+
+.logo-font {
+    font-family: 'Lobster', cursive;
+}
