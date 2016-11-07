@@ -1,3 +1,7 @@
+body {
+    position: relative;
+}
+
 .container {
     text-align: center;
 }
@@ -8,7 +12,7 @@
     border-radius: 10px;
 }
 
-#jumbotron-main {
+.jumbotron-main {
     margin-top: 80px;
     background-image: url("images/background.jpeg");
     background-size: cover;
