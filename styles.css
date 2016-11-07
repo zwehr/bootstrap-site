@@ -12,7 +12,7 @@ body {
     border-radius: 10px;
 }
 
-.jumbotron-main {
+#jumbotron-main {
     margin-top: 80px;
     background-image: url("images/background.jpeg");
     background-size: cover;
@@ -24,9 +24,14 @@ h1 {
 }
 
 h2 {
-    margin-bottom: 50px;
+    margin-bottom: 75px;
 }
 
 .logo-font {
     font-family: 'Lobster', cursive;
+}
+
+#footer {
+    text-align: center;
+    font-size: 75%;
 }
